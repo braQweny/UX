@@ -19,7 +19,7 @@
 ## Projektowanie web 
  * http://pea.rs/
  * http://patternprimer.adactio.com/
-
+ * usabilityhub.com
 ## Style Guide 
  * http://fbrctr.github.io/
  * https://frontify.com/
@@ -59,3 +59,23 @@
  * https://fortawesome.github.io/Font-Awesome/
  * https://github.com/google/fonts
  * https://www.myfonts.com/  
+
+## Kolory 
+ * http://www.cambridgeincolour.com/
+ * https://color.adobe.com/pl/create/color-wheel/
+ * Adobe Color mobile app
+ * http://www.mariaclaudiacortes.com/#
+ * http://webaim.org/resources/
+ * http://paletton.com/
+ * http://www.linequality.com/
+  
+## Komunikacja
+
+ * https://trello.com/
+ * https://www.springloops.io/ 
+
+## Kompresja
+
+ * http://jpegclub.org/
+ * http://freecode.com/projects/jpegoptim
+ * http://optipng.sourceforge.net/
