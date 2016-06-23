@@ -4,7 +4,7 @@
 
 ## Markdown
  * pandoc.org
- * noisli.org  
+ * noisli.org 
 
 ## Narzedzie projektowanie stron (wireframe)
  * Adobe Muse
@@ -20,6 +20,7 @@
  * http://pea.rs/
  * http://patternprimer.adactio.com/
  * usabilityhub.com
+ 
 ## Style Guide 
  * http://fbrctr.github.io/
  * https://frontify.com/
@@ -70,12 +71,10 @@
  * http://www.linequality.com/
   
 ## Komunikacja
-
  * https://trello.com/
  * https://www.springloops.io/ 
 
 ## Kompresja
-
  * http://jpegclub.org/
  * http://freecode.com/projects/jpegoptim
  * http://optipng.sourceforge.net/
